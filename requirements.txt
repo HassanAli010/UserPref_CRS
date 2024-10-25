@@ -5,3 +5,6 @@ json
 os
 sklearn.metrics.pairwise
 cosine_similarity
+
+similarity.pkl file link:
+https://drive.google.com/file/d/11llgdUypbtDH5xsN7LkYZTZViifPChtC/view?usp=sharing
